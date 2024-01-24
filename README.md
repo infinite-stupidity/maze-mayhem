@@ -27,6 +27,10 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/lynkslol/maze-mayhem/raw/master/.github/makecode/blocks.png)
 
+
+**Dev logs!!!!**
+1/24/24, Week 0: game released with 6 levels, 3 functions, orb, fire orb, key.
+
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
