@@ -29,7 +29,8 @@ This image may take a few minutes to refresh.
 
 
 **Dev logs!!!!**
-1/24/24, Week 0: game released with 6 levels, 3 functions, orb, fire orb, key.
+1/24/24, Week 0: game released with 6 levels, 4 functions, orb, cracked walls, fire orb, key.
+shout out to loglot (https://github.com/loglot) for creating levels 2 and 3!
 
 #### Metadata (used for search, rendering)
 
