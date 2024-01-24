@@ -1,38 +1,8 @@
  
 
 
-> Open this page at [https://lynkslol.github.io/maze-mayhem/](https://lynkslol.github.io/maze-mayhem/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/lynkslol/maze-mayhem** and import
-
-## Edit this project ![Build status badge](https://github.com/lynkslol/maze-mayhem/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/lynkslol/maze-mayhem** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/lynkslol/maze-mayhem/raw/master/.github/makecode/blocks.png)
-
-
 **Dev logs!!!!**
 1/24/24, Week 0: game released with 6 levels, 4 functions, orb, cracked walls, fire orb, key.
 shout out to loglot (https://github.com/loglot) for creating levels 2 and 3!
 
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+if you make your own level, message me on discord: @lynks_lol or x/twitter: @lynks_lmao and i'll add it to the game if i like it! must be made with makecode or drawn so i can import the level.
