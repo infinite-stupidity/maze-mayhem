@@ -9,6 +9,7 @@ shout out to loglot (https://github.com/loglot) for creating levels 2 and 3!
 1/31/24, Week 1: The Colored Keys Update (1.1)
 
 added level 7
+
 added colored keys and locks
 
 added animations
