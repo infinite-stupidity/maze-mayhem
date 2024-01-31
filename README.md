@@ -16,4 +16,8 @@ added animations
 
 nothing was removed
 
+
+
+**Additional Information**
+
 if you make your own level, message me on discord: @lynks_lol or x/twitter: @lynks_lmao and i'll add it to the game if i like it! must be made with makecode or drawn so i can import the level.
