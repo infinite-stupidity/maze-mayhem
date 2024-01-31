@@ -2,7 +2,8 @@
     "name": "Maze Mayhem",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
