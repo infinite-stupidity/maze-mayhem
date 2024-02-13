@@ -2,7 +2,9 @@
     "name": "Maze Mayhem",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
     },
     "files": [
         "main.blocks",
@@ -18,7 +20,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.46",
+        "target": "1.12.47",
         "targetId": "arcade"
     },
     "supportedTargets": [
